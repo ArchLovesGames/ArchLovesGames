@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArchLovesGames
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Blender and Java
+- 👀 I’m interested in Backend and AppDev
+- 🌱 I’m currently learning Blender, Java and C
 - 😄 Pronouns: she/her
 
 
