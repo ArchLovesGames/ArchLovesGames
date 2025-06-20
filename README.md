@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ArchLovesGames
-- 👀 I’m interested in Full-Stack and AI/ML
-- 🌱 I’m currently learning Python, C, C++, Blender and HTML/CSS
-- 😄 Pronouns: she/her
-
+Hey, I'm Archisha.
+CS major, competitive coding enthusiast and die-hard gamer.
+(she/her)
 
 <!---
 ArchLovesGames/ArchLovesGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
