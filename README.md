@@ -1,12 +1,12 @@
--Hey, I'm Archisha Singh
+-👋 Hey, I'm Archisha Singh
 
--CS major at BITS Pilani, Pilani campus
+-💻 CS major at BITS Pilani, Pilani campus
 
--Competitive coder (Codeforces) and 3D generalist (Blender)
+-👩‍💻 Competitive coder (Codeforces) and 3D generalist (Blender)
 
--Current goal: Language and DSA mastery
+-📊 Current goal: Language and DSA mastery
 
--(she/her)
+-♀ (she/her)
 
 <!---
 ArchLovesGames/ArchLovesGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
