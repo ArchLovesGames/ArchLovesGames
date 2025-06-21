@@ -4,8 +4,6 @@
 
 -👩‍💻 Competitive coder (Codeforces) and 3D generalist (Blender)
 
--📊 Current goal: Language and DSA mastery
-
 -♀ (she/her)
 
 <!---
