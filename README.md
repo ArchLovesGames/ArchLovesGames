@@ -2,7 +2,7 @@
 
 -💻 CS major at BITS Pilani, Pilani campus
 
--👩‍💻 Competitive coder (Codeforces) and 3D generalist (Blender)
+-👩‍💻 A product guy, but I love me some competitive coding
 
 -♀ (she/her)
 
